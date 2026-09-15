@@ -1,4 +1,4 @@
-# Can telework mitigate the motherhood penalty? Evidence from the UK
+# Can telework mitigate the motherhood penalty ? Evidence from the UK
 
 This repository presents the main R code used for my Master 2 research project in Public Policy at Université Paris 1 Panthéon-Sorbonne.
 
