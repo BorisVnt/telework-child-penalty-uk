@@ -77,7 +77,7 @@ This result provides additional support for the interpretation that telework can
 
 ## Tools
 
-R — dplyr — tidyverse — fixest — ggplot2 — haven
+R
 
 ## Author
 
